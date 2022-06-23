@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Spring Boot Full Stack with Angular" target="1.8" />
+      <module name="Spring Boot Full Stack with Angular" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
